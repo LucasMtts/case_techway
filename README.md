@@ -2,18 +2,18 @@
 
 ## Task:
 
-Título: Site não abre corretamente [Bug]
-Status: Resolvido
-Nome do cliente: JJ Investimentos LTDA.
-CNPJ do cliente: 45.244.282/0001-63
-Solicitante: Marcelo Costa (marcelo.costa@softway.com.br)
-Chave: OSD-2368
+- Título: Site não abre corretamente [Bug]
+- Status: Resolvido
+- Nome do cliente: JJ Investimentos LTDA.
+- CNPJ do cliente: 45.244.282/0001-63
+- Solicitante: Marcelo Costa (marcelo.costa@softway.com.br)
+- Chave: OSD-2368
 
-Estimativa: 8hs
-Horas trabalhadas: 8hs
-Data da Abertura: 27/11/2023
-Prazo limite:  08/12/2023
-Responsável: Lucas Matos da Silva
+- Estimativa: 8hs
+- Horas trabalhadas: 8hs
+- Data da Abertura: 27/11/2023
+- Prazo limite:  08/12/2023
+- Responsável: Lucas Matos da Silva
 
 ## Notas sobre Problemas e Soluções
 
